@@ -1,4 +1,4 @@
-## Hoşgeldin 👋 -------------------- KartanesiMC Developer Page ---------------------------------
+## Hoşgeldin 👋 -------------------- KartanesiMC Developer Page -----------------------------
 <img src="https://i.imgur.com/HL04oIw.jpg" weight="2000"/> </div>
 ##
 <h3>Projelerimiz</h3>
