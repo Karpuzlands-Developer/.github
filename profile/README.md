@@ -1,13 +1,13 @@
-## Hoşgeldin 👋 -------------------- KartanesiMC Developer Page -----------------------------
+## Hoşgeldin 👋 -------------------- Karpuzlands Developer Page -----------------------------
 <img src="https://i.imgur.com/HL04oIw.jpg" weight="2000"/> </div>
 ##
 <h3>Projelerimiz</h3>
-<b>KartanesiMC</b> KartanesiMC, Minecraft için geliştirilen bir sunucudur. Aramıza katılmak için Discord adresimize katıl!
-<b><br>KartanesiMC Discord Bot</b> Yürüttüğümüz Minecraft projesinin Discord'unu yöneten Discord Botu.
+<b>Karpuzlands</b> Karpuzlands, Minecraft için geliştirilen bir sunucudur. Aramıza katılmak için Discord adresimize katıl!
+<b><br>Karpuzlands Discord Bot</b> Yürüttüğümüz Minecraft projesinin Discord'unu yöneten Discord Botu.
 ##asd
-<h3>KartanesiMC Sosyal</h3>
-Discord : https://discord.kartanesimc.com
-<br>GitHub : https://github.kartanesimc.com
+<h3>Karpuzlands Sosyal</h3>
+Discord : https://discord.karpuzlands.com
+<br>GitHub : https://github.karpuzlands.com
 
 <!--
 
